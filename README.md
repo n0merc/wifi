@@ -10,7 +10,7 @@
 
 ## **What This Tool Does**
 
-This fucking tool sends deauthentication packets to disconnect devices from WiFi networks. It's like a WiFi "kick" button that forces devices to disconnect and sometimes prevents reconnection.
+This tool sends deauthentication packets to disconnect devices from WiFi networks. It's like a WiFi "kick" button that forces devices to disconnect and sometimes prevents reconnection.
 
 ## **Quick Start**
 
