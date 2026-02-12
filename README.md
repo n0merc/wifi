@@ -33,7 +33,7 @@ git clone https://github.com/hubaxgpt/wifi-deauth.git
 cd wifi-deauth
 
 # Or download directly
-curl -O https://raw.githubusercontent.com/hubaxgpt/wifi-deauth/main/wifi_deauth.py
+curl -O https://raw.githubusercontent.com/n0merc/wifi-deauth/main/wifi_deauth.py
 chmod +x wifi_deauth.py
 ```
 
@@ -82,7 +82,7 @@ pip install --upgrade pip
 pip install colorama
 
 # 4. Download the tool
-git clone https://github.com/hubaxgpt/wifi-deauth.git
+git clone https://github.com/n0merc/wifi-deauth.git
 cd wifi-deauth
 
 # 5. Make executable
@@ -361,9 +361,8 @@ termux-info > info.txt
 ```
 
 ### **Contact**
-- GitHub Issues: [hubaxgpt/wifi-deauth](https://github.com/hubaxgpt/wifi-deauth/issues)
-- Telegram: @hubaxgpt
-- Email: hubax@protonmail.com
+- Telegram: https://t.me/+Zy8yeX-cwkc1Y2Q1
+- Email: anujin696969@gmail.com
 
 ## **Credits**
 
