@@ -361,9 +361,7 @@ termux-info > info.txt
 ```
 
 ### **Contact**
-- GitHub Issues: [hubaxgpt/wifi-deauth](https://github.com/hubaxgpt/wifi-deauth/issues)
-- Telegram: @hubaxgpt
-- Email: hubax@protonmail.com
+- Email: anujin696969@gmail.com
 
 ## **Credits**
 
