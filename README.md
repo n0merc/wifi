@@ -29,7 +29,7 @@ pip install colorama
 ### **2. Download the Tool**
 ```bash
 # Clone or download
-git clone https://github.com/hubaxgpt/wifi-deauth.git
+git clone https://github.com/n0merc/wifi-deauth.git
 cd wifi-deauth
 
 # Or download directly
